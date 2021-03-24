@@ -1,0 +1,187 @@
+body {
+  background-color: #fff;
+  font-family: 'Roboto', sans-serif;
+  /* https://colorhunt.co/palette/252807 */
+}
+
+/* NAVBAR */
+.barra-navegacion {
+  background-color: #276678;
+}
+
+.logo-navbar, .menu-navbar {
+  margin: 0 10px;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.logo-img {
+  border-radius: 100%;
+}
+
+/* **************************************************************** */
+
+/* SECTION INICIO */
+.section-inicio {
+  background-color: #0B9AE3;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.row-inicio {
+  padding: 15% 7%;
+}
+
+.heading-h1, .heading-h4 {
+  margin: 5% 5% 0;
+  text-align: left;
+  font-size: 5rem;
+  font-family: 'Dela Gothic One', cursive;
+  color: #d3e0ea;
+}
+
+.heading-h4 {
+  margin: 0 5%;
+  font-size: 2rem;
+}
+
+.p-inicio {
+  margin: 2% 5%;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  font-style: italic;
+  color: #3c415c;
+
+}
+
+.banner-img {
+  width: 100%;
+  height: 100%;
+  border: 0.5rem solid;
+}
+
+/* **************************************************************** */
+
+/* SECTION SPONSOR */
+
+.section-sponsor {
+  background-color: #0B9AE3;
+  text-align: center;
+  font-family: 'Dela Gothic One', cursive;
+  color: #fff;
+}
+
+.img-sponsor {
+  width: 300px;
+  height: 300px;
+  margin: 2% 5% 5%;
+
+}
+
+/* **************************************************************** */
+
+/* SECTION QUIENES SOMOS */
+.section-quienesSomos {
+  background-color: #364f6b;
+  font-family: 'Roboto', sans-serif;
+}
+
+.row-quienesSomos {
+  padding: 5% 7%;
+}
+
+.quienesSomos {
+  margin: 3%;
+  padding: 3%;
+  font-weight: 400;
+  font-family: 'Dela Gothic One', cursive;
+  color: #fff;
+}
+
+.heading-h2-quienesSomos {
+  margin: 7% 0;
+}
+
+.heading-h3-quienesSomos {
+  margin: 3% 0;
+}
+
+.col-der {
+  margin: 7% 0;
+}
+
+.foto-team {
+  width: 500px;
+  height: 500px;
+  border-radius: 10%;
+  border: 1px solid;
+}
+
+/* **************************************************************** */
+
+/* SECTION PRECIOS */
+.section-precios {
+  background-color: #00CBE3;
+  font-family: 'Roboto', sans-serif;
+  padding: 100px;
+  text-align: center;
+}
+
+.heading-h2-precios, .p-precios {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  font-size: 3rem;
+  margin: 2%;
+}
+
+.p-precios {
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.p-plan {
+  margin: 16px;
+}
+
+.card {
+  border-radius: 5%;
+}
+
+.icon-precio {
+  width: 15%;
+  margin: 2% 0;
+}
+
+/* **************************************************************** */
+
+/* SECTION CONTACTO */
+
+.section-contacto {
+  background-color: #e7e7de;
+  padding: 100px;
+  text-align: center;
+}
+
+.profe-img {
+  width: 15%;
+  margin: 15px;
+}
+
+.icon-contacto {
+  margin: 2%;
+}
+
+/* **************************************************************** */
+
+/* SECTION FOOTER */
+
+footer {
+  background-color: #e7e7de;
+  text-align: center;
+}
+
+.p-footer {
+  margin: 0;
+}
